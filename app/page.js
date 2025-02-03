@@ -17,7 +17,7 @@ export default function Page() {
             REEBOK
           </h1>
           <p className="text-gray-400 text-lg">
-          Добро пожаловать к официальному дилеру REEBOK и Daniel's!
+        Добро пожаловать к официальному дилеру REEBOK и Daniel's!
           </p>
         </div>
 
